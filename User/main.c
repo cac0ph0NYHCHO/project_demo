@@ -134,7 +134,6 @@ int main(void)
 		{
 			red_state = RED_OFF;
 			RedLED_OFF();
-			red_timer = 0;
 		}
 	}
 }
